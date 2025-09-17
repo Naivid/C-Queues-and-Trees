@@ -159,5 +159,7 @@ int main() {
     ejemplo2();
     ejemplo3();
     ejemplo4();
+    ejemplo5();
+    ejemplo6();
     return 0;
 }
